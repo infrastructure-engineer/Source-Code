@@ -57,7 +57,6 @@ foreach($vPrice in $vInput){
 
     }
 
-    
     $vPrevGoal = $vPriceGoal
     $vLastAction = $vAction
 }

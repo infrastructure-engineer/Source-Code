@@ -8,10 +8,10 @@ BINANCEKEY = '95bkSzXwHMf98zomQGYhT27vrdKzQr7wuAxROYsygacaE1ZuqT4E1f5FKmSrfPpT'
 import json
 import Python.DuTraBot2.binance as Binance
 
-Binance
+Binance.MARKET
 
 
-from binance.client import Client
+#from binance.client import Client
 
 #Function to print JSON format in Human Readable Format
 def printjson(fname):
