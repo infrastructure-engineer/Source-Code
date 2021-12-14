@@ -14,7 +14,6 @@ $extensions =
 #PowerShell
 "ms-vscode.powershell",
 # Python
-"ms-python.python",
 "ms-python.vscode-pylance",
 
 
